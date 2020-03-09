@@ -1,4 +1,4 @@
-# client
+# RouterOS Demo Proxy Server
 
 ## Project setup
 ```
@@ -15,12 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Run your tests (Not implemented)
-```
-npm run test
-```
-
-### Lints and fixes files
+### Lints and fixes formatting errors
 ```
 npm run lint
 ```
